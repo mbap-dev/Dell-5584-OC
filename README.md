@@ -14,4 +14,4 @@ Especificações:
 - HDD TOSHIBA 1TB
 - SmBios	MacbookPro 15,2
 
-DSDT pacthed by Mald0n [Olarila](olarila.com)
+DSDT pacthed by Mald0n [Olarila](https://www.olarila.com/)
