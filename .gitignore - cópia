@@ -1,0 +1,11 @@
+*png
+.idea
+*.bak
+results/
+test-suit.code-workspace
+sge-mono.code-workspace
+.gitignore
+.node_modules/.yarn-integrity
+.interactive_console_output.xml
+.package-lock.json
+.yarn.lock
